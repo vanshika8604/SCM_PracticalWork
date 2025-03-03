@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 making changes for pull on local repo
+=======
+using for pushing and pulling
+>>>>>>> 83fb0c6f5918dd544cc1f4a073c3c2e87ea1ebaa

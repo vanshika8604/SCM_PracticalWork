@@ -1,3 +1,8 @@
 hello!
 This is my scm project.
+<<<<<<< HEAD
 pushing pulling
+=======
+task 1.2 scm
+is done 
+>>>>>>> 83fb0c6f5918dd544cc1f4a073c3c2e87ea1ebaa
